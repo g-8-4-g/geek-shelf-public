@@ -1,6 +1,6 @@
-# 📚 Geek Shelf 
+# 📚 GeekShelf 
 
-**Geek Shelf** is a visually rich, React-based app for organizing what you've already watched or read — across anime, movies, series, and books. Designed with a clean UI and calm ambient touches, it helps you build your own personal archive, not just another list.
+**GeekShelf** is a visually rich, React-based app for organizing what you've already watched or read — across anime, movies, series, and books. Designed with a clean UI and calm ambient touches, it helps you build your own personal archive, not just another list.
 
 With a serene, forest-inspired aesthetic, floating fireflies, glowing spirit animals, and smooth UI transitions, the app evokes a quiet, almost magical experience — a digital reflection of a cozy, well-loved bookshelf.
 
@@ -36,7 +36,10 @@ With a serene, forest-inspired aesthetic, floating fireflies, glowing spirit ani
 ## 🎬 Demo
 
 Watch the app in action:  
-👉 **[Demo Video](https://drive.google.com/file/d/1yflN1T9uYVf0LDw2bWco8ntMxBg3AWKj/view?usp=sharing)**
+👉 **[Demo Video](https://drive.google.com/file/d/1yflN1T9uYVf0LDw2bWco8ntMxBg3AWKj/view?usp=sharing)**  
+
+Link to the app:  
+🔗 **[GeekShelf Web App](https://geek-shelf.vercel.app/)**
 
 > Full application access is restricted via an email whitelist — contact the developer for access.  
 <br> 
